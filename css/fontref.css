@@ -1,7 +1,7 @@
 /* logo字体 */
 @font-face {
-    font-family: 851tegakizatsu;
-    src: url(././fonts/851tegakizatsu/851tegakizatsu.ttf) format("truetype");
+    font-family: '851tegakizatsu';
+    src: url(./fonts/851tegakizatsu/851tegakizatsu.ttf) format("truetype");
 }
 
 /* 代码字体 */
